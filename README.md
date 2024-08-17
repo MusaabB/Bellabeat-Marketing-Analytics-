@@ -1,4 +1,3 @@
-Business Analyst-Case-Study
 ## Company Overview
 
 In 2016, Cyclistic introduced a successful bike-share program in Chicago. Since its inception, the program has expanded to include a fleet of 5,824 bicycles, all equipped with geotracking and secured in a network of 692 stations across the city. Cyclistic’s system allows bikes to be unlocked from one station and returned to any other station at the users' convenience.
